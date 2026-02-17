@@ -1,4 +1,13 @@
 # Phishing Website Detection 🛡️
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="90" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="90" alt="Flask"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="90" alt="HTML5"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="90" alt="CSS3"/>
+</p>
 
 A simple **Phishing Detection System** built with **Flask**, **HTML**, **CSS**, and **Python**.  
 This project helps identify potentially malicious websites by analyzing URLs for suspicious patterns and keywords.
